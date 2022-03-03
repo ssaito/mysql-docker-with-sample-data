@@ -1,6 +1,6 @@
 # mysql-docker-with-sample-data
 
-This is a repository for creating a MySQL environment locally in Docker in an instant. ![Sample data](https://dev.mysql.com/doc/sakila/en/) will also be injected automatically.
+This is a repository for creating a MySQL environment locally in Docker in an instant. [Sample data](https://dev.mysql.com/doc/sakila/en/) will also be injected automatically.
 
 ## set up
 
